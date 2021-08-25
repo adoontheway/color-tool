@@ -1,0 +1,20 @@
+{
+  "name": "color-tool",
+  "version": "1.0.0",
+  "description": "a google Color tool native package",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "color-tool",
+    "material-design"
+  ],
+  "author": "adoontheway@github.com",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.6",
+    "node-fetch": "^2.6.1"
+  }
+}
